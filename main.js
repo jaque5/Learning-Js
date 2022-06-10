@@ -4,4 +4,9 @@ var w = 2.1;
 undefined
 console.log(Math.floor(n));
 
-console.log(w);
+console.log(Math.floor(w));
+
+console.log(Math.ceil(n));
+
+console.log(Math.ceil(w));
+
